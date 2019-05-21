@@ -1,5 +1,5 @@
 package main
-
+//dude wtf man
 import "fmt"
 
 type node struct {
