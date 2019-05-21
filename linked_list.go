@@ -1,5 +1,6 @@
 package main
 //dude wtf man
+//fml bitches
 import "fmt"
 
 type node struct {
